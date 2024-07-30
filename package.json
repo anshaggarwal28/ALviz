@@ -1,0 +1,12 @@
+{
+  "name": "alviz",
+  "version": "1.0.0",
+  "description": "updated version",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "ansh aggarwal",
+  "license": "ISC",
+  "keywords": []
+}
